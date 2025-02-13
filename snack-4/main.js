@@ -9,8 +9,7 @@ for (let i = 0; i < 6; i++) {
     console.log(userNumb);
     
     if (userNumb % 2 !== 0) {
-        empty.push()
-        console.log(empty.push(userNumb));
+        empty.push(userNumb)
     }
 }
 console.log(empty);
