@@ -17,4 +17,4 @@ if (firstWord.length > secondWord.length) {
 } else {
     console.log("Sono due parole lunghe uguali");
 
-} 
+}  
